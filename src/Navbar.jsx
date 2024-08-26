@@ -45,4 +45,4 @@ function Navbar() {
     );
 }
 
-export default Tabs;
+export default Navbar;
