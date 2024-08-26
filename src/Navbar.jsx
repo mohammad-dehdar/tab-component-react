@@ -3,7 +3,7 @@ import Home from "./Home";
 import AboutUs from "./AboutUs";
 import ContactUs from "./ContactUs";
 
-function Tabs() {
+function Navbar() {
     const [activeTab, setActiveTab] = useState("Home");
 
     const renderComponent = () => {
